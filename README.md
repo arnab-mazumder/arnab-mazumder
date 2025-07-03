@@ -72,7 +72,7 @@
 - 🚚 One-hour hyperlocal delivery
 - 🛒 Hostel essentials marketplace
 
-**Tech Stack:** Flask • Neon PostgreSQL • AI APIs
+**Tech Stack:** React • JavaScript • Neon PostgreSQL • AI APIs
 
 </td>
 </tr>
