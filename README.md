@@ -101,7 +101,7 @@
 ## 📫 Connect With Me
 
 - 📧 **Email**: [arnab.mazumder1108@gmail.com](mailto:arnab.mazumder1108@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/arnab-mazumder-171a80284](https://www.linkedin.com/in/arnab-mazumder-171a80284)  
+- 💼 **LinkedIn**: [Linkedin.com/in/arnab-mazumder-b4a238326/)]((https://www.linkedin.com/in/arnab-mazumder-b4a238326/))
 - 🌐 **Portfolio**: [web-resume-h0a5.onrender.com](https://web-resume-h0a5.onrender.com)
 
 ---
