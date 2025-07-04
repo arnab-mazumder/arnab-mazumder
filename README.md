@@ -5,8 +5,8 @@
 <h3 align="center">🚀 Innovator • Developer • Problem Solver</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnab-mazumder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/arnab-mazumder?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Arnab-creator&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Arnab-creator?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 <p align="center">
@@ -36,7 +36,7 @@
 > _"Technology is my toolkit to build a better tomorrow — accessible, inclusive, and impactful."_
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-mazumder&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnab-creator&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -164,12 +164,12 @@
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnab-mazumder&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab-mazumder&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnab-creator&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-creator&layout=compact&theme=radical&hide_border=true" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnab-mazumder&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-creator&theme=github-compact&hide_border=true" />
 </div>
 
 ---
