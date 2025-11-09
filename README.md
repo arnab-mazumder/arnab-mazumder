@@ -23,11 +23,7 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-</div>
 
 ### 🎓 Student & Developer
 
@@ -89,7 +85,7 @@ An interactive navigation solution designed to help students and visitors naviga
 
 <div align="center">
   
-[**📂 View Repository**](https://github.com/arnab-mazumder/Jain-Campus-Navigator) • [**🚀 Live Demo**](#)
+[**📂 View Repository**](https://github.com/arnab-mazumder/Jain-Campus-Navigator)
 
 </div>
 
@@ -123,7 +119,7 @@ A cutting-edge 3D visualization platform for real-time aircraft component monito
 
 <div align="center">
   
-[**📂 View Repository**](https://github.com/arnab-mazumder/Aircraft-Error-Detection) • [**🚀 Live Demo**](#)
+[**📂 View Repository**](https://github.com/arnab-mazumder/Aircraft-Error-Detection)
 
 </div>
 
@@ -161,7 +157,7 @@ A comprehensive e-commerce solution for furniture shopping with modern design an
 
 <div align="center">
   
-[**📂 View Repository**](https://github.com/arnab-mazumder/furniture_store_website) • [**🚀 Live Demo**](#)
+[**📂 View Repository**](https://github.com/arnab-mazumder/furniture_store_website)
 
 </div>
 
@@ -170,19 +166,9 @@ A comprehensive e-commerce solution for furniture shopping with modern design an
 
 ### 🔮 What's Next?
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
-</div>
-
 **Exciting Projects Coming Soon!**
 
-I'm constantly working on new ideas and innovations. Stay tuned for upcoming projects in:
-
-- 🤖 **AI/ML Applications** - Intelligent solutions
-- 🗳️ **Civic Tech** - Democracy & voting systems
-- 📦 **Campus Solutions** - Student life improvements
-- ♿ **Accessibility Tools** - Inclusive tech for all
-- 🌐 **Full-Stack Apps** - Modern web solutions
+I'm constantly working on new ideas and building innovative solutions. Check out my repositories for updates!
 
 <div align="center">
   
@@ -260,13 +246,6 @@ I'm constantly working on new ideas and innovations. Stay tuned for upcoming pro
 
 </div>
 
-<div align="center">
-  
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=arnab-mazumder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-
-</div>
-
 ---
 
 ## 🏆 Achievements & Recognition
@@ -301,13 +280,13 @@ I'm constantly working on new ideas and innovations. Stay tuned for upcoming pro
 <tr>
 <td><b>🥇 Finalist</b></td>
 <td>Salesforce Product Jam</td>
-<td>Individual</td>
+<td>Team SkyForce</td>
 <td>2025</td>
 </tr>
 <tr>
 <td><b>🥉 3rd Place</b></td>
 <td>CRCE Ideathon</td>
-<td>Individual</td>
+<td>Team MG</td>
 <td>2025</td>
 </tr>
 <tr>
@@ -323,11 +302,7 @@ I'm constantly working on new ideas and innovations. Stay tuned for upcoming pro
 **Double Victory at MATRIX Technical Fest**  
 *KLE Society's Degree College, Nagarabhavi*
 
-Team **Cyber Monkeys** (Arnab Mazumder & Prabhav Naik) achieved back-to-back victories:
-- 🥇 **Coding Competition** - September 25, 2025
-- 🥇 **Technical Treasure Hunt** - September 26, 2025
-
-*A proud moment showcasing teamwork, problem-solving, and technical excellence!*
+Team **Cyber Monkeys** (Arnab Mazumder & Prabhav Naik) achieved back-to-back victories showcasing teamwork, problem-solving, and technical excellence at the MATRIX Technical Fest 2025!
 
 </div>
 
@@ -335,40 +310,9 @@ Team **Cyber Monkeys** (Arnab Mazumder & Prabhav Naik) achieved back-to-back vic
 
 ## 🎯 What Drives Me
 
-<div align="center">
-
 **Building Technology That Makes a Real Difference**
 
-</div>
-
 I'm passionate about creating **practical solutions** that solve **real-world problems**. Whether it's helping students navigate campus, visualizing complex aircraft systems, or building e-commerce platforms - I focus on innovation that impacts people's daily lives.
-
-### My Development Philosophy
-
-<table>
-<tr>
-<td width="25%" align="center">
-  <img src="https://img.icons8.com/clouds/100/000000/innovation.png"/>
-  <br><b>Innovation First</b>
-  <br><sub>Exploring cutting-edge tech</sub>
-</td>
-<td width="25%" align="center">
-  <img src="https://img.icons8.com/clouds/100/000000/user-male-circle.png"/>
-  <br><b>User-Centric</b>
-  <br><sub>Building for real needs</sub>
-</td>
-<td width="25%" align="center">
-  <img src="https://img.icons8.com/clouds/100/000000/books.png"/>
-  <br><b>Always Learning</b>
-  <br><sub>Staying ahead of trends</sub>
-</td>
-<td width="25%" align="center">
-  <img src="https://img.icons8.com/clouds/100/000000/globe.png"/>
-  <br><b>Impact Focused</b>
-  <br><sub>Solutions that matter</sub>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -378,25 +322,9 @@ I'm passionate about creating **practical solutions** that solve **real-world pr
 
 **I'm always open to interesting conversations and collaboration opportunities!**
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/clouds/100/000000/code.png"/>
-  <br><b>Web Development</b>
-  <br><sub>Full-stack projects</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/clouds/100/000000/3d.png"/>
-  <br><b>3D Visualization</b>
-  <br><sub>Interactive experiences</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/clouds/100/000000/artificial-intelligence.png"/>
-  <br><b>AI Integration</b>
-  <br><sub>Smart solutions</sub>
-</td>
-</tr>
-</table>
+### Areas of Collaboration
+
+**Web Development** • **3D Visualization** • **AI Integration** • **Campus Innovation**
 
 <br>
 
