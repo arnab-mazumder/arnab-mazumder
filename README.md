@@ -239,16 +239,32 @@ I'm constantly working on new ideas and innovations. Stay tuned for upcoming pro
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnab-mazumder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab-mazumder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  
+### 📈 Contribution Stats
+<img src="https://github-readme-stats.vercel.app/api?username=arnab-mazumder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab-mazumder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="165"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-mazumder&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  
+### 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com/?user=arnab-mazumder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnab-mazumder&theme=tokyonight" alt="Profile Summary" />
+  
+### 📊 Detailed Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnab-mazumder&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+<div align="center">
+  
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=arnab-mazumder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
 </div>
 
 ---
