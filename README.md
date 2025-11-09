@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Arnab+Mazumder;Full+Stack+Developer;AI+%26+Accessibility+Enthusiast;Building+Tech+for+Social+Good" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Arnab+Mazumder;Full+Stack+Developer;Building+Tech+for+Impact" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,17 +23,36 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Arnab Mazumder
-education: B.Tech in Information Science & Engineering (2nd Year)
-university: Jain University
-location: Bengaluru, India
-interests: [Full-Stack Development, 3D Visualization, Campus Innovation, AI Integration]
-currently_learning: [DSA, MERN Stack, Advanced JavaScript, Spanish]
-philosophy: "Building practical solutions that make everyday life easier"
-```
+<div align="center">
+  
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎯 **Focus**: Creating innovative web applications and interactive systems that solve real-world problems.
+</div>
+
+### 🎓 Student & Developer
+
+**B.Tech in Information Science & Engineering (2nd Year)**  
+📍 Jain University, Bengaluru, India
+
+### 💡 What I Do
+
+I'm a passionate full-stack developer focused on building **innovative web applications** that solve real-world problems. My work spans from **interactive 3D visualizations** to **campus navigation systems** and **e-commerce platforms**.
+
+### 🎯 Areas of Interest
+
+- 🌐 **Full-Stack Web Development** - Building end-to-end solutions
+- 🎮 **3D Visualization** - Creating immersive interactive experiences
+- 🏫 **Campus Innovation** - Making student life easier through tech
+- 🤖 **AI Integration** - Leveraging AI to enhance applications
+
+### 🏆 Recent Highlights
+
+- 🥇 **Double Winner** at MATRIX Technical Fest (Coding Competition + Technical Treasure Hunt)
+- 🏆 **Back-to-back Technical Treasure Hunt Champion** (2 consecutive wins)
+- 🔒 **Cybersecurity Enthusiast** - Team Cyber Monkeys
+- 💻 **Active GitHub Contributor** - Building projects that matter
+
+> *"Code with purpose, build with passion, innovate with impact."*
 
 ---
 
@@ -44,49 +63,69 @@ philosophy: "Building practical solutions that make everyday life easier"
 <td width="50%" valign="top">
 
 ### 🧭 [Jain Campus Navigator](https://github.com/arnab-mazumder/Jain-Campus-Navigator)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Updated-Nov_2025-blue?style=flat-square" />
+</div>
+
 **Smart Campus Navigation System**
 
-Interactive campus navigation solution helping students and visitors find their way around Jain University campus with ease.
+An interactive navigation solution designed to help students and visitors navigate Jain University campus seamlessly.
 
-**🎯 Features:**
-- 🗺️ Interactive campus map interface
-- 📍 Real-time location tracking
-- 🔍 Smart search for buildings & rooms
-- 🚶 Optimized route planning
-- 📱 Mobile-responsive design
+#### 🎯 Key Features
+- 🗺️ Interactive campus map with real-time updates
+- 📍 GPS-based location tracking
+- 🔍 Intelligent search for buildings, rooms & departments
+- 🚶 Optimized pathfinding algorithms
+- 📱 Fully responsive mobile design
+- 🎨 Modern, intuitive UI/UX
 
-**💻 Tech Stack:**  
-`JavaScript` `Leaflet.js` `HTML5` `CSS3`
+#### 💻 Built With
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Leaflet.js](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**📅 Last Updated:** Nov 9, 2025
+<div align="center">
+  
+[**📂 View Repository**](https://github.com/arnab-mazumder/Jain-Campus-Navigator) • [**🚀 Live Demo**](#)
 
-<a href="https://github.com/arnab-mazumder/Jain-Campus-Navigator">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
-</a>
+</div>
 
 </td>
 <td width="50%" valign="top">
 
 ### ✈️ [Aircraft Error Detection](https://github.com/arnab-mazumder/Aircraft-Error-Detection)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Updated-Jun_2025-blue?style=flat-square" />
+</div>
+
 **3D Aircraft Fault Visualization System**
 
-Interactive 3D visualization system for real-time aircraft component monitoring featuring a modern glassmorphism UI design.
+A cutting-edge 3D visualization platform for real-time aircraft component monitoring with stunning glassmorphism design.
 
-**⚡ Features:**
-- 🎨 Modern glassmorphism interface
-- 🔴 Real-time component issue detection
-- 💡 Visual fault indicators with animations
+#### ⚡ Key Features
+- 🎨 Modern glassmorphism UI design
+- 🔴 Real-time fault detection & alerts
+- 💡 Dynamic blinking indicators for issues
+- 🎮 Interactive 3D aircraft model (Three.js)
 - 🔌 Spring Boot backend integration
-- 🎮 Interactive 3D aircraft model
+- 📊 Comprehensive error logging system
 
-**💻 Tech Stack:**  
-`Three.js` `CSS3` `JavaScript` `Spring Boot`
+#### 💻 Built With
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-**📅 Last Updated:** Jun 24, 2025
+<div align="center">
+  
+[**📂 View Repository**](https://github.com/arnab-mazumder/Aircraft-Error-Detection) • [**🚀 Live Demo**](#)
 
-<a href="https://github.com/arnab-mazumder/Aircraft-Error-Detection">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
-</a>
+</div>
 
 </td>
 </tr>
@@ -95,45 +134,61 @@ Interactive 3D visualization system for real-time aircraft component monitoring 
 <td width="50%" valign="top">
 
 ### 🛋️ [Furniture Store Website](https://github.com/arnab-mazumder/furniture_store_website)
-**E-Commerce Platform for Furniture**
 
-Full-featured e-commerce website for furniture shopping with modern design and seamless user experience.
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Updated-Aug_2025-blue?style=flat-square" />
+</div>
 
-**🛒 Features:**
-- 🏪 Product catalog with categories
-- 🔍 Advanced search & filtering
-- 🛍️ Shopping cart functionality
-- 👤 User authentication system
+**Full-Featured E-Commerce Platform**
+
+A comprehensive e-commerce solution for furniture shopping with modern design and seamless user experience.
+
+#### 🛒 Key Features
+- 🏪 Dynamic product catalog with categories
+- 🔍 Advanced search & smart filtering
+- 🛍️ Shopping cart with real-time updates
+- 👤 Secure user authentication & profiles
 - 💳 Payment gateway integration ready
-- 📱 Responsive design
+- 📱 Mobile-responsive design
+- 📊 Admin dashboard for inventory management
 
-**💻 Tech Stack:**  
-`PHP` `MySQL` `JavaScript` `Bootstrap` `CSS3`
+#### 💻 Built With
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-**📅 Last Updated:** Aug 6, 2025
+<div align="center">
+  
+[**📂 View Repository**](https://github.com/arnab-mazumder/furniture_store_website) • [**🚀 Live Demo**](#)
 
-<a href="https://github.com/arnab-mazumder/furniture_store_website">
-  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
-</a>
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 More Projects In Development
+### 🔮 What's Next?
 
-Currently working on exciting new projects in:
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+</div>
 
-- 🤖 **AI/ML Applications** - Healthcare & Accessibility
-- 🗳️ **Civic Tech** - Voting & Democracy Solutions  
-- 📦 **Campus Solutions** - Student Life Improvements
-- ♿ **Accessibility Tools** - STEM Education for All
-- 🌐 **Full-Stack Apps** - Modern Web Solutions
+**Exciting Projects Coming Soon!**
 
-**Stay tuned for updates!**
+I'm constantly working on new ideas and innovations. Stay tuned for upcoming projects in:
 
-<a href="https://github.com/arnab-mazumder?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-</a>
+- 🤖 **AI/ML Applications** - Intelligent solutions
+- 🗳️ **Civic Tech** - Democracy & voting systems
+- 📦 **Campus Solutions** - Student life improvements
+- ♿ **Accessibility Tools** - Inclusive tech for all
+- 🌐 **Full-Stack Apps** - Modern web solutions
+
+<div align="center">
+  
+[**🔗 View All Repositories**](https://github.com/arnab-mazumder?tab=repositories)
+
+</div>
 
 </td>
 </tr>
@@ -141,11 +196,11 @@ Currently working on exciting new projects in:
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
-### Languages
+### 🔤 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -154,7 +209,7 @@ Currently working on exciting new projects in:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -162,7 +217,7 @@ Currently working on exciting new projects in:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -171,7 +226,7 @@ Currently working on exciting new projects in:
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### AI & Backend
+### 🤖 AI & Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -202,69 +257,132 @@ Currently working on exciting new projects in:
 
 <div align="center">
 
-| 🏅 Achievement | 🎯 Event | 📅 Year |
-|---|---|---|
-| 🥇 **Finalist** | Salesforce Product Jam | 2025 |
-| 🏆 **Winner** | Technical Treasure Hunt @ MATRIX | 2025 |
-| 🥉 **3rd Place** | CRCE Ideathon | 2025 |
-| 🥈 **Runner-Up** | TRIWIZARD CTF (Cybersecurity) | 2025 |
+<table>
+<tr>
+<th>🏅 Achievement</th>
+<th>🎯 Event</th>
+<th>👥 Team</th>
+<th>📅 Date</th>
+</tr>
+<tr>
+<td><b>🥇 1st Place</b></td>
+<td>Coding Competition - MATRIX Technical Fest</td>
+<td>Team Cyber Monkeys</td>
+<td>Sept 25, 2025</td>
+</tr>
+<tr>
+<td><b>🥇 1st Place</b></td>
+<td>Technical Treasure Hunt - MATRIX Technical Fest</td>
+<td>Team Cyber Monkeys</td>
+<td>Sept 26, 2025</td>
+</tr>
+<tr>
+<td><b>🏆 Winner</b></td>
+<td>Technical Treasure Hunt - MATRIX 2025 (First Win)</td>
+<td>Team Cyber Monkeys</td>
+<td>2025</td>
+</tr>
+<tr>
+<td><b>🥇 Finalist</b></td>
+<td>Salesforce Product Jam</td>
+<td>Individual</td>
+<td>2025</td>
+</tr>
+<tr>
+<td><b>🥉 3rd Place</b></td>
+<td>CRCE Ideathon</td>
+<td>Individual</td>
+<td>2025</td>
+</tr>
+<tr>
+<td><b>🥈 Runner-Up</b></td>
+<td>TRIWIZARD CTF (Cybersecurity)</td>
+<td>Team Cyber Monkeys</td>
+<td>2025</td>
+</tr>
+</table>
+
+### 🎉 Special Recognition
+
+**Double Victory at MATRIX Technical Fest**  
+*KLE Society's Degree College, Nagarabhavi*
+
+Team **Cyber Monkeys** (Arnab Mazumder & Prabhav Naik) achieved back-to-back victories:
+- 🥇 **Coding Competition** - September 25, 2025
+- 🥇 **Technical Treasure Hunt** - September 26, 2025
+
+*A proud moment showcasing teamwork, problem-solving, and technical excellence!*
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Learning Path))
-    Data Structures & Algorithms
-      LeetCode Daily
-      Problem Solving
-      Competitive Programming
-    Full Stack Development
-      MERN Stack
-      Advanced React
-      Node.js Backend
-    3D Web Development
-      Three.js Mastery
-      WebGL
-      Interactive Visualizations
-    Languages
-      Spanish
-      English Proficiency
-```
-
-</div>
-
-**Current Focus:**
-- 🔥 **DSA on LeetCode** - Building strong problem-solving fundamentals
-- 🌐 **MERN Stack** - Mastering full-stack development
-- 🎮 **Three.js & WebGL** - Creating immersive 3D experiences
-- 🌍 **Spanish** - Expanding global communication skills
 
 ---
 
 ## 🎯 What Drives Me
 
-I'm passionate about building technology that makes a tangible difference in people's lives. Whether it's helping students navigate campus, visualizing complex aircraft systems, or creating accessible e-commerce experiences - I focus on practical solutions that solve real problems.
+<div align="center">
 
-**My Approach:**
-- 🚀 **Innovation First** - Always exploring new technologies and methodologies
-- 🤝 **User-Centric** - Building with the end-user's needs at the forefront
-- 📚 **Continuous Learning** - Staying updated with the latest in tech
-- 🌍 **Social Impact** - Creating solutions that contribute to society
+**Building Technology That Makes a Real Difference**
+
+</div>
+
+I'm passionate about creating **practical solutions** that solve **real-world problems**. Whether it's helping students navigate campus, visualizing complex aircraft systems, or building e-commerce platforms - I focus on innovation that impacts people's daily lives.
+
+### My Development Philosophy
+
+<table>
+<tr>
+<td width="25%" align="center">
+  <img src="https://img.icons8.com/clouds/100/000000/innovation.png"/>
+  <br><b>Innovation First</b>
+  <br><sub>Exploring cutting-edge tech</sub>
+</td>
+<td width="25%" align="center">
+  <img src="https://img.icons8.com/clouds/100/000000/user-male-circle.png"/>
+  <br><b>User-Centric</b>
+  <br><sub>Building for real needs</sub>
+</td>
+<td width="25%" align="center">
+  <img src="https://img.icons8.com/clouds/100/000000/books.png"/>
+  <br><b>Always Learning</b>
+  <br><sub>Staying ahead of trends</sub>
+</td>
+<td width="25%" align="center">
+  <img src="https://img.icons8.com/clouds/100/000000/globe.png"/>
+  <br><b>Impact Focused</b>
+  <br><sub>Solutions that matter</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
-**Open to collaborations in:**  
-🚀 Web Development • 🎮 3D Visualizations • 🤖 AI/ML Projects • 🌍 Social Impact Tech
+**I'm always open to interesting conversations and collaboration opportunities!**
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/clouds/100/000000/code.png"/>
+  <br><b>Web Development</b>
+  <br><sub>Full-stack projects</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/clouds/100/000000/3d.png"/>
+  <br><b>3D Visualization</b>
+  <br><sub>Interactive experiences</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/clouds/100/000000/artificial-intelligence.png"/>
+  <br><b>AI Integration</b>
+  <br><sub>Smart solutions</sub>
+</td>
+</tr>
+</table>
+
+<br>
 
 <a href="mailto:arnab.mazumder1108@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -286,4 +404,8 @@ I'm passionate about building technology that makes a tangible difference in peo
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Open+to+collaborations!+%F0%9F%A4%9D" alt="Footer" />
+</div>
+
+<div align="center">
+  <sub>⭐ If you like my work, consider giving my repositories a star!</sub>
 </div>
